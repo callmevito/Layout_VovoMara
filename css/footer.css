@@ -1,0 +1,23 @@
+.footer{
+    margin: 40px 0px 0px 0px;
+    width: 100%;
+    height: auto;
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-footer{
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+}
+
+.lista-footer{
+    display: flex;
+    list-style-type: none;
+}
+.item-footer{
+    padding: 10px 5px 10px 5px;
+}
